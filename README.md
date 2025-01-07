@@ -1,14 +1,16 @@
 # DCM Normalization and PNG Conversion
 
-Overview
+## Overview
 
 This repository contains the scripts and utilities for processing DICOM (DCM) files from lung CT scans. The project focuses on normalizing the data and converting the DICOM files into PNG format for easier visualization and further analysis.
 
-Features
-Data Preprocessing:
+## Features
+
+### Data Preprocessing:
 Normalize DICOM files.
 Extract and save image patches.
-Utilities:
+
+### Utilities:
 Convert DICOM files to PNG format.
 Segmentation utilities for lung CT scans.
 Environment Setup:
