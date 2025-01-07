@@ -23,14 +23,14 @@ Using conda:
 conda env create -f environment.yml
 conda activate pipeline_env
 
-### Using pip:
+### Using pip
 
 pip install -r requirements.txt
 
-## Run the Scripts (Jupyter notebook)
+## Run the Scripts (Jupyter notebook):
 Data_preprocessing.ipynb
 
-Requirements
+### Requirements
 Python 3.10 or later
 Libraries specified in requirements.txt
 Optional: Use the conda environment described in environment.yml
